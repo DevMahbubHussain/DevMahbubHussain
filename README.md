@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DevMahbubHussain
 - 👀 I’m interested in PHP, Laravel, WordPress, Javascript, React Js
-- 🌱 I’m currently learning PHP Design Patterns, React Js
 - 💞️ I’m looking to collaborate on PHP Open Source Projects.
 - 📫 How to reach me
     mahbubhussaincse@gmail.com
