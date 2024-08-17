@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DevMahbubHussain
 - 🚀 Full-Stack Developer | PHP, Laravel, WordPress, React.
 - 👀 I’m interested in PHP, Laravel, WordPress, Javascript, and React Js.
--🚀 Tools: Git, Composer, npm, Webpack.
  - 🚀 Database: MySQL, SQLite.
 - 💞️ I’m looking to collaborate on PHP Open Source Projects.
 - 📫 How to reach me
